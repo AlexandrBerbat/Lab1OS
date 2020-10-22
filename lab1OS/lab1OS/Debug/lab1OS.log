@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Home\Desktop\3 курс\OS\lab1OS\lab1OS\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Home\Desktop\3 курс\OS\lab1OS\lab1OS\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Home\Desktop\3 курс\OS\lab1OS\lab1OS\Source.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab1OS.vcxproj -> C:\Users\Home\Desktop\3 курс\OS\lab1OS\Debug\lab1OS.exe
